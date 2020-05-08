@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc0b4e41-cbcf-4570-b070-a9ec607f000d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vkm6LxofEiEy3Ay7ykrCFtPh35" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Playlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Playlist" />
+      <module name="LinkedLists" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Playlist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc0b4e41-cbcf-4570-b070-a9ec607f000d" name="Default Changelist" comment="" />
+      <created>1577805290331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577805290331</updated>
+      <workItem from="1577805294779" duration="4450000" />
+      <workItem from="1577880848686" duration="86000" />
+      <workItem from="1588864955859" duration="546000" />
+      <workItem from="1588938770250" duration="3340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1588940880908">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588940880908" />
+    <state x="812" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588864976956">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="812" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588864976956" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1588865527504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865527504" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1588865527500">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865527500" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1588865527499">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865527499" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1588865527503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865527503" />
+    <state width="1878" height="374" key="GridCell.Tab.1.bottom" timestamp="1588865186535">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.bottom/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865186535" />
+    <state width="1878" height="374" key="GridCell.Tab.1.center" timestamp="1588865186533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.center/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865186533" />
+    <state width="1878" height="374" key="GridCell.Tab.1.left" timestamp="1588865186532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.left/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865186532" />
+    <state width="1878" height="374" key="GridCell.Tab.1.right" timestamp="1588865186534">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.right/1920.154.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1588865186534" />
+  </component>
+</project>
